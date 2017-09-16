@@ -8,6 +8,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <Label  HorizontalAlignment="Left" Margin="237,36,0,0" Content="Welcome to Sync Framework" VerticalAlignment="Top"/>
+        <Button Content="File Sync" HorizontalAlignment="Left" Margin="10,108,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
 
     </Grid>
 </Window>
